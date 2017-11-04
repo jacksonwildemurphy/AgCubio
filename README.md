@@ -1,3 +1,3 @@
 # AgCubio
 
-A multiplayer game similar to www.agar.io, written in C#. Includes both Client and Server programs. Makes use of sockets. The server processes requests in parallel in a thread-safe manner.
+A networked, multiplayer game similar to www.agar.io. This is a .NET desktop app written in C#. Includes both client and server programs. The server handles each connected client in parallel in a thread-safe manner.
